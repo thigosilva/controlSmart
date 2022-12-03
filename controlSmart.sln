@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "controlSmart.Web", "controlSmart\controlSmart.Web\controlSmart.Web.csproj", "{DCEFBC16-3424-42A6-A05D-FC42F72E7C80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCEFBC16-3424-42A6-A05D-FC42F72E7C80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCEFBC16-3424-42A6-A05D-FC42F72E7C80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCEFBC16-3424-42A6-A05D-FC42F72E7C80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCEFBC16-3424-42A6-A05D-FC42F72E7C80}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1C4284B-BD9E-4C39-AAE0-458C7B8D2BF1}
+	EndGlobalSection
+EndGlobal
